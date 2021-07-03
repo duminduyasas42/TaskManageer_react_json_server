@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "meet dr",
+      "day": "01/01/2000",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "go to school",
+      "day": "17/07/2000",
+      "reminder": false
+    },
+    {
+      "text": "come home",
+      "day": "18 july 2020",
+      "reminder": true,
+      "id": 3
+    }
+  ]
+}
